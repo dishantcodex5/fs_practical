@@ -1,0 +1,17 @@
+{
+  "name": "gym-rep-counter",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["gym", "fitness", "counter", "exercise", "reps"],
+  "author": "",
+  "license": "ISC",
+  "description": "A web-based gym exercise rep counter with persistent storage",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
